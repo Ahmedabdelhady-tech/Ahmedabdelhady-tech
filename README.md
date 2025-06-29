@@ -78,7 +78,7 @@
   <!-- Contact -->
   <h2>📫 Get in Touch</h2>
   <p>
-    <a href="ahmedabdelhady94@outlook.com">✉️ youremail@example.com</a> •
+    <a href="ahmedabdelhady94@outlook.com">✉️ ahmedabdelhady94@outlook.com</a> •
     <a href="https://www.linkedin.com/in/ahmed-abdel-hady-2410994ah/">LinkedIn</a> •
     <a href="https://x.com/AbdelHady37197">X</a>
   </p>
