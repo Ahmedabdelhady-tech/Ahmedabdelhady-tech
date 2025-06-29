@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Header / Hero Section -->
-  <h1>👋 Hi, I’m <strong>[Your Name]</strong></h1>
+  <h1>👋 Hi, I’m <strong>ِ Ahmed Abdel Hady</strong></h1>
   <p>
     <em>ALX PDBE Learner • Aspiring Software Engineer • Django Enthusiast</em>
   </p>
